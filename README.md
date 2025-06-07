@@ -1,9 +1,13 @@
 # 💫 About Me:
-Atualmente estudando programação focado em analise de dados e desenvolvimento web.
+# 💫 About Me:
+🎓 Estudante de Engenharia de Software focado em Dados.  
+🚀 Apaixonado por tecnologia, aprendizado constante e criação de soluções que fazem a diferença.  
+📊 Atualmente desenvolvendo projetos com Python, Django, MySQL e Power BI.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Firmin0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-firmino-ferreira-j%C3%BAnior-9aa963233/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Firmin0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-firmino-ferreira-j%C3%BAnior-9aa963233/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junyorferreira041@gmail.com)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
